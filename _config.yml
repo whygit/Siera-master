@@ -13,10 +13,10 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-paginate: 2
+# paginate: 2
 
 
 author: Your name
 
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
